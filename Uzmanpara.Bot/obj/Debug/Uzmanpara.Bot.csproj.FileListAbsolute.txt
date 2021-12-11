@@ -1,0 +1,11 @@
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\bin\Debug\Uzmanpara.Bot.exe.config
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\bin\Debug\Uzmanpara.Bot.exe
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\bin\Debug\Uzmanpara.Bot.pdb
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\obj\Debug\Uzmanpara.Bot.csproj.AssemblyReference.cache
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\obj\Debug\Uzmanpara.Bot.csproj.CoreCompileInputs.cache
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\obj\Debug\Uzmanpara.Bot.csproj.CopyComplete
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\obj\Debug\Uzmanpara.Bot.exe
+C:\Users\ROOT\Documents\GitHub\Uzmanpara.Bot\Uzmanpara.Bot\obj\Debug\Uzmanpara.Bot.pdb
