@@ -1,4 +1,4 @@
-# Uzmanpara Bot
+# Uzmanpara Milliyet Bot
 ```sh
  https://uzmanpara.milliyet.com.tr/
 ```
