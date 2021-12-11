@@ -15,7 +15,10 @@ namespace Uzmanpara.Bot
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Title = "uzmanpara.milliyet.com.tr Botu";
 
-            Console.WriteLine("uzmanpara.milliyet.com.tr'den Döviz & Altın Kuru Çeken Bot" + "\n==========================================================\n");
+            Console.WriteLine(
+                "\n==========================================================\n"
+                "uzmanpara.milliyet.com.tr'den Döviz & Altın Kuru Çeken Bot" + 
+                "\n==========================================================\n");
 
             Console.WriteLine(
                 "[ 1 ] ==> Döviz ( Dolar & Euro & Sterlin )" + "\n" +
@@ -23,8 +26,8 @@ namespace Uzmanpara.Bot
                 "[ 3 ] ==> Merkez Bankası Kurları" + "\n" +
                 "[ 4 ] ==> Serbest Piyasa Kurları" + "\n" +
                 "[ 5 ] ==> Kripto" + "\n" +
-                "[ 6 ] ==> Gündem Haber" +
-                "\n=============\n");
+                "[ 6 ] ==> Gündem Haber" + 
+                "\n\n==========================================================\n");
 
             Console.Write("Seçim yapınız : ");
 
@@ -41,10 +44,10 @@ namespace Uzmanpara.Bot
                 Console.Write("\n\nSeçim yapınız : ");
                 Class1.NewMethod();
             }
-                
+
             Console.ReadLine();
         }
 
-       
+
     }
 }

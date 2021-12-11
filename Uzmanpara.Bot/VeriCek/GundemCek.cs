@@ -25,7 +25,7 @@ namespace Uzmanpara.Bot.VeriCek
 
                 foreach (var Gundem in GundemX)
                 {
-                    for (int i = 1; i <= 25; i++)
+                    for (int i = 1; i <= 3; i++)
                     {
                         string HaberBaslik = KarakterDuzelt.Duzelt(Gundem.SelectSingleNode("/html/body/div[9]/div[7]/div[2]/div[3]/ul/li[" + i + "]/a/text()").InnerText);
                         string HaberTarih = KarakterDuzelt.Duzelt(Gundem.SelectSingleNode("/html/body/div[9]/div[7]/div[2]/div[3]/ul/li[" + i + "]/span").InnerText);
@@ -35,7 +35,7 @@ namespace Uzmanpara.Bot.VeriCek
                         {
                             HaberBaslik = HaberBaslik,
                             HaberTarih = HaberTarih,
-                            HaberLink = HaberLink,
+                            HaberLink = HaberLink
                         });
                     }
                 }
