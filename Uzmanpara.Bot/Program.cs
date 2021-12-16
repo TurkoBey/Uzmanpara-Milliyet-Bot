@@ -16,7 +16,7 @@ namespace Uzmanpara.Bot
             Console.Title = "uzmanpara.milliyet.com.tr Botu";
 
             Console.WriteLine(
-                "\n==========================================================\n"
+                "\n==========================================================\n"+
                 "uzmanpara.milliyet.com.tr'den Döviz & Altın Kuru Çeken Bot" + 
                 "\n==========================================================\n");
 
@@ -35,7 +35,7 @@ namespace Uzmanpara.Bot
             {
                 Class1.NewMethod();
             }
-            catch (Exception mesaj)
+            catch (Exception)
             {
                 Console.Write("Sadece sayı değeri giriniz..");
             }
